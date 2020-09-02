@@ -1,0 +1,13 @@
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Paralelisme.exe.config
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Paralelisme.exe
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Paralelisme.pdb
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.csprojAssemblyReference.cache
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.Form1.resources
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.Properties.Resources.resources
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.csproj.GenerateResource.cache
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.exe
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.pdb
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Json.Net.dll
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arniv\Desktop\paralelismo arnau\Paralelisme\Paralelisme\obj\Debug\Paralelisme.csproj.CopyComplete
